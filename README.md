@@ -1,9 +1,8 @@
 - 👋 Hi, I’m @frankie-63
 - 👀 I’m interested in Python and JavaScript
-- 🌱 I’m currently learning Python
+- 🌱 I’m currently learning Python and JavaScript
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me 
-https://www.facebook.com/sergey.vlad.54
 https://vk.com/id47934963
 @Frankie163 (t.me)
 <!---
