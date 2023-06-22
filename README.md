@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @frankie-63
-- 👀 I’m interested in Python and JavaScript
-- 🌱 I’m currently learning Python and JavaScript
+- 👀 I’m interested in PHP and JavaScript
+- 🌱 I’m currently learning PHP and JavaScript
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me 
 https://vk.com/id47934963
